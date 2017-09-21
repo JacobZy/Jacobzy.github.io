@@ -39,8 +39,8 @@ github提供支持构建博客的github pages，可以使用jekyll生成。
 > disqus_username: webshotname
 
 2. 为管理方便，建议使用git工具将远程pages库在本地clone，并可安装jekyll进行即时预览和修改。
-Github pages关于本地管理方法的[介绍][5]
-jekyll本地预览命令：
+- Github pages关于本地管理方法的[介绍][5]  
+- jekyll本地预览命令：
 > jekyll s
 
 
