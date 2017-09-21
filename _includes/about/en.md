@@ -1,35 +1,25 @@
 
 
-> Yet another man.
+> Yet another new day comes.
 
 
-Hi, I am *@huxpro* (Huang, Xuan), a software engineer & a designer. I previously worked as Web Front-End Engineer at [Alibaba Trip](https://www.alitrip.com/); Web Front-End Infrastructure Team Lead at [Wepiao.com](https://www.crunchbase.com/organization/wepiao#/entity); And [Invited Consultant on PWA]((https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)) at [Ele.me](https://github.com/elemefe/).
+ 1 If I speak with the tongues of men and of angels, but have not love, I am become sounding brass, or a clanging cymbal.  2 And if I have the gift of prophecy, and know all mysteries and all knowledge; and if I have all faith, so as to remove mountains, but have not love, I am nothing.  3 And if I bestow all my goods to feed the poor , and if I give my body to be burned, but have not love, it profiteth me nothing.
+ 
+  4 Love suffereth long, and is kind; love envieth not; love vaunteth not itself, is not puffed up,  5 doth not behave itself unseemly, seeketh not its own, is not provoked, taketh not account of evil;  6 rejoiceth not in unrighteousness, but rejoiceth with the truth;  7 beareth all things, believeth all things, hopeth all things, endureth all things. 
 
-I studied Digital Media Art and graduated from [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) by 2016, and am studying Computer Science at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology) from 2017.
+  8 Love never faileth: but whether there be prophecies, they shall be done away; whether there be tongues, they shall cease; whether there be knowledge, it shall be done away.  9 For we know in part, and we prophesy in part;  10 but when that which is perfect is come, that which is in part shall be done away.  11 When I was a child, I spake as a child, I felt as a child, I thought as a child: now that I am become a man, I have put away childish things.  12 For now we see in a mirror, darkly; but then face to face: now I know in part; but then shall I know fully even as also I was fully known. 13 But now abideth faith, hope, love, these three; and the greatest of these is love.
 
-
-##### Talks
-
-- [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI Guangzhou 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux Beijing 2017
-- PWA Rehashing · Baidu HQ Beijing 2017
-- [Service Worker 101][5] · GDG DevFest Beijing 2016
-- [Progressive Web Apps][4] · QCon Shanghai 2016
-- Progressive Web App in my POV · GDG IO Redux Beijing 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript Modularization Journey][1] · 2015
+------- Corinthians chapter 13
 
 
+##### resources
 
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
+- [Ren Bumei's blog][1] · Sina blog
+- [Ren Bumei's blog][2] · Wenxuecity blog
+- [CSMP YOUTUBE](https://www.youtube.com/channel/UCCr_o2qheMGic7wdff943mA)
+- [lutheren cn](http://lutheran.cn/)
+
+[1]: http://blog.sina.com.cn/u/6151519900
+[2]: http://blog.wenxuecity.com/myblog/72397/
 
 
