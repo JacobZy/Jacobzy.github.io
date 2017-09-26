@@ -47,7 +47,7 @@ tags:
 通往江心公园的悬索桥
 ![mingjiangimg][9]
 
-* google earth上的福州和闽江
+* google earth上的福州和闽江。视角方向上，城市好像地球的一道伤口。
 ![googleearthimg][10]
 
 
