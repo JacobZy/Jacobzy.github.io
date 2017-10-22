@@ -1,6 +1,6 @@
 # Site settings
-title: Areopagus
-SEOTitle: 亚略巴古 | Areopagus
+title: living stone
+SEOTitle: 活石 | living stone
 header-img: img/home-bg.jpg
 email: yzjyzw@gmail.com
 description: "网络,技术,科学上网 | Jacob，Web & Mobile Lover，Software Engineer | 更大的世界"
@@ -67,7 +67,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "凡事相信，凡事盼望<br>起来，你当行的路甚远"
+sidebar-about-description: "起来，你当行的路甚远<br>凡事相信，凡事盼望"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
