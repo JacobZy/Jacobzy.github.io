@@ -13,7 +13,7 @@ tags:
 ---
 
 
-> 作者刘文忠，文革入狱13年，记叙狱中所见龚品梅主教。
+> 作者刘文忠，文革入狱13年，个人自叙狱中所见龚品梅主教。
 > source:http://blog.sina.com.cn/s/blog_4c288f1b0100didd.html
 
  
