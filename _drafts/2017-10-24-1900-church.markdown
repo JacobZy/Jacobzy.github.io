@@ -10,6 +10,7 @@ catalog:    true
 tags:
 
     - 历史
+    - 教难
 ---
 
 >     2010年3月1日 作者: 任不寐  source:bmzy.montrealccc.org/2010-03-01/3262
