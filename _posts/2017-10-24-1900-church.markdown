@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "在争议中回首庚子教难"
-subtitle:   "qizhou-1900"
+subtitle:   "church-1900"
 date:       2017-10-24 12:00:00
 author:     "Jacob"
 header-img: "img/postbg/post-bg-2015.jpg"

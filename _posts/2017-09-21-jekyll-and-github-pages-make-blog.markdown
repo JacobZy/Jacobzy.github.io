@@ -8,8 +8,7 @@ header-img: "img/postbg/post-bg-rwd.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-    - blog
-    - web
+    - 网络
 ---
 
 
