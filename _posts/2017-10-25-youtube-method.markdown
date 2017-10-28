@@ -12,8 +12,8 @@ tags:
 ---
 
 
-> YOUTUBE上各类节目丰富，而因为网络环境原因常常不能登录，本文介绍若干种手机和电脑浏览方法。
-> 也可以用来登录其他如facebook,twitter,Flickr及google、gmail系列服务等。
+> YOUTUBE上各类节目很丰富，而因为网络环境原因常常不能登录，本文介绍若干种手机和电脑浏览方法。
+> 也可以用来登录其他如google、gmail、facebook,twitter,Flickr服务等。
 
 ## android手机
 1. 有许多的VPN应用可以选择，免费的也很容易找到。可以在如下网站上先行下载到手机然后安装
@@ -46,19 +46,27 @@ tags:
 
 ## XX-Net
 这个代理工具功能强大，可以使用在windows、MAC、linux及android手机上，详细使用方法如下：
-* <https://github.com/XX-net/XX-Net/wiki/How-to-use>
+* [使用说明](https://github.com/XX-net/XX-Net/wiki/How-to-use)
+* [开启IPV6](https://github.com/XX-net/XX-Net/wiki/%E5%A6%82%E4%BD%95%E5%BC%80%E5%90%AFIPv6)
+* [linux + xxnet + ipv6](https://github.com/XX-net/XX-Net/issues/7463)
 
 ## 节目单
-1. 儿童
+1. 儿童类
 - [芝麻街](https://www.youtube.com/user/SesameStreet)
 - [PBS KIDS](https://www.youtube.com/channel/UCrNnk0wFBnCS1awGjq_ijGQ)
 - [KIDS TV CHANNEL](https://www.youtube.com/user/edukatetv)
 - [KIDS TV](https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw)
-2. 谈话
+2. 谈话类
 - [TED TALK](https://www.youtube.com/user/TEDtalksDirector)
-3. 音乐
-- [Kari Jobe](https://www.youtube.com/watch?v=rNx7KK-Koi0&list=RDrNx7KK-Koi0)
-4. 其它
+3. 音乐类
+- [Lord, Have Mercy](https://www.youtube.com/watch?v=4iwF7tNS3O4&list=RD4iwF7tNS3O4&t=3)
+- [Kari Jobe](https://www.youtube.com/user/karijobe)
+4. 福音类
+- [大卫鲍森](https://www.youtube.com/user/goodtvdavidpawson)
+- [唐崇荣 Q&A](https://www.youtube.com/watch?v=WMQ9rLbV9xE&list=PLmPrCdvoLM1_UEovHxNXubAWvxLpvdZcY)
+- [唐崇荣](https://www.youtube.com/channel/UCIdqGBOGNoOEn1ZIkxATL3Q)
+- [任不寐](https://www.youtube.com/channel/UC2MgB-upjmPWAP_p7hdk_MQ)
+5. 其它
 - 请在搜索框输入你感兴趣的关键字
 
 
