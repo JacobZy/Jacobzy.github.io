@@ -2,7 +2,7 @@
 layout:     post
 title:      "是非功败，一个基督徒的战争日记"
 subtitle:   "war-diary"
-date:       2017-10-26 14:00:00
+date:       2017-10-29 07:00:00
 author:     "Jacob"
 header-img: "img/postbg/post-bg-2015.jpg"
 header-mask: 0.3
@@ -10,6 +10,7 @@ catalog:    true
 tags:
 
     - 历史
+    - 见证
 ---
 
 > 原文<http://bmzy.montrealccc.org/2016-10-21/343>作者:任不寐  

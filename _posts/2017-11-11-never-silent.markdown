@@ -2,7 +2,7 @@
 layout:     post
 title:      "上帝不沉默——电影《沉默》（Silence，2016）批判 "
 subtitle:   "never-silent"
-date:       2017-10-26 13:00:00
+date:       2017-11-21 01:00:00
 author:     "Jacob"
 header-img: "img/postbg/post-bg-2015.jpg"
 header-mask: 0.3
